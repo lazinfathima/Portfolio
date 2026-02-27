@@ -27,7 +27,7 @@ nav {
 
 nav h2 {
     font-weight: 700;
-    color: #27002c;
+    color: #dec5e1;
    
 }
 
@@ -39,7 +39,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #e299fa;
+    color: #eec7fc;
     font-size: 16px;
     font-weight: 500;
 }
@@ -62,16 +62,16 @@ nav ul li a:hover {
 }
 
 .hero-text h1 {
-    font-size: 40px;
+    font-size: 68px;
     margin-bottom: 20px;
 }
 
 .hero-text span {
-    color: #c545d6;
+    color: #af05c5;
 }
 
 .hero-text p {
-    font-size: 18px;
+    font-size: 17.5px;
     line-height: 1.6;
 }
 
@@ -94,7 +94,7 @@ section {
     font-size: 34px;
     margin-top: 40px;
     margin-bottom: 60px;
-    color: #381f40;
+    color: #502d5b;
 }
 
 /* SKILLS */
@@ -137,6 +137,7 @@ section {
 /* Card Title */
 .skill-card h3 {
     margin-bottom: 18px;
+    color: #f290ff;
     font-size: 22px;
     font-weight: 600;
     border-bottom: 2px solid #f5d1f1;
@@ -156,6 +157,7 @@ section {
     align-items: center;
     margin-bottom: 12px;
     font-size: 16.5px;
+    color: #ecb5f5;
 }
 
 /* Badge Base */
@@ -169,17 +171,17 @@ section {
 /* Levels */
 .badge.beginner {
     background: #eb90d1;
-    color: #1e0c20;
+    color: #ba00cf;
 }
 
 .badge.intermediate {
     background: #c94bbe;
-    color: #490f4d;
+    color: #6d1874;
 }
 
 .badge.advanced {
     background: #470137;
-    color: #090309;
+    color: #5d1e5d;
 }
 
 /* PROJECTS */
@@ -216,12 +218,12 @@ section {
 
 .project-content h3 {
     margin-bottom: 15px;
-    color: #341c37;
+    color: #faa8e8;
 }
 
 .project-content p {
     margin-bottom: 20px;
-    color: #341738;
+    color: #dfa0e8;
 }
 
 .tech-tags span {
@@ -275,7 +277,7 @@ section {
 
 .edu-header h3 {
     font-size: 21px;
-    color: #2d002d;
+    color: #faa8e8;
 }
 
 .edu-year {
@@ -288,7 +290,7 @@ section {
 
 .edu-college {
     margin: 10px 0 15px;
-    color: #230128;
+    color: #efabf9;
     font-size: 17px;
 }
 
@@ -304,14 +306,14 @@ section {
     padding: 6px 14px;
     border-radius: 20px;
     font-size: 15px;
-    color: #552f5d;
+    color: #3e1e44;
 }
 
 /* Achievement */
 .edu-achievement {
     margin-top: 15px;
     font-weight: 600;
-    color: #3d1f3a;
+    color: #d974cf;
 }
 
 
@@ -329,7 +331,7 @@ section {
 
 .cert-card {
     background: rgba(41, 2, 46, 0.15);
-   
+    color: ;
     border-radius: 20px;
     padding: 30px;
     text-align: center;
@@ -370,7 +372,7 @@ section {
 .cert-card h3 {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #44214d;
+    color: #9c3281;
 }
 
 .cert-tags span {
@@ -380,7 +382,7 @@ section {
     border-radius: 20px;
     font-size: 14px;
     margin: 5px;
-    color: #300039;
+    color: #9c18b3;
 }
 
 /* CONTACT */
@@ -396,13 +398,14 @@ section {
     width: 460px;
     padding: 25px;
     background: #8f4b9f;
+    color: #f1d5f7;
     border-radius: 12px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
 }
 
 .contact-card h3 {
     margin-bottom: 15px;
-    color: #341738;
+    color: #64015a;
     font-size: 22px;
 }
 
@@ -450,7 +453,7 @@ section {
     height: 48px;
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.25);
-    color: #111;
+    color: #111111;
     font-size: 22px;
     margin-right: 15px;
     transition: all 0.3s ease;
@@ -472,3 +475,20 @@ section {
     background: #d888e8;
     color: rgb(255, 255, 255);
 }
+
+.footer {
+    background: #7a4885;
+    color: rgb(223, 139, 234);
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container h3 {
+    margin-bottom: 5px;
+}
+
+.footer p {
+    font-size: 14px;
+    
+}
+
